@@ -1,0 +1,12 @@
+{
+  "name": "دعوة زفاف اسماعيل و رحمه",
+  "short_name": "اسماعيل و رحمه",
+  "lang": "ar",
+  "dir": "rtl",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0B1830",
+  "theme_color": "#0B1830",
+  "icons": [{ "src": "/icons/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }]
+}
+
